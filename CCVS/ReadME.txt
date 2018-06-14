@@ -11,7 +11,7 @@ a.	CholTest_emperical.m: To check if Cholesky factorization can be applied to th
 b.	CCVS.m: The pricer implemented under local-stochastic volatility model in with Monte Carlo Approach. For convenience, most constant parameters’ values are assigned within the function itself. 
 TODO: CCVS pricer with all parameters as input arguments.
 2.	Compute the various correlation risk profiles. They will serve as a benchmark for subsequent approaches; They are in the \Risk_Profile folder.
-a.	< Corresponding python code>Generate parameter table for further analysis;
+a.	rho_table_formulation.m: Generate parameter table for further analysis;
 b.	CCVS_rho_u1u2_u1x2_corridor_chunks.m: Back up the price with parameters given in the table. 
 TODO: add dimensions <U,T> in the table.
 c.	Run_CCVS_rho_u1u2_u1x2_corridor_chunks.m: Decide which chunks to be calculated, merge outputs from different chunks into a complete table.
@@ -28,7 +28,7 @@ a.	Plot_CCVS_gaussian.m: Generate the risk profile of the Price with Gaussian Co
 4.	Bonus: Try with different Copulas.
 <TOBEDONE>
 Part 3 (optional)
-1.	Propose some numerical approaches for the model outlined in Section 3;
+1.	Propose some numerical approaches for the model outlined in Section 3;(See the report)
 <TOBEDONE>
 
 Credits:
