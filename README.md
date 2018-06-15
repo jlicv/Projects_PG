@@ -12,7 +12,7 @@ ELN: Dual-Equity Linked Note, explicit scheme FD.<br>
 Remarks:
 Parts that I think interesting enough in these projects:
 
-CCVS: Payoff structure changed, thus capturing how to capture its dynamics with correlations?<br>
+CCVS: Payoff structure changed, thus how to capture its dynamics with correlations?<br>
 WWR: Paths that have contributed to the risk exposure are rare and stochastic, statistic estimating exposure may suffer from slow speed of convergence. <br>
 PP & ELN: Insights of payoff’s behaviour with changing inputs. <br>
 TSRV: Trade-off between bias and variance; Source of noise and effectiveness of estimators.<br>
